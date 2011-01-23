@@ -2,7 +2,7 @@
 
 [Wandor1.2]
 Name=WANDOR
-URL=http://www.example.com/downloads/wandor.exe
+URL=http://twl.github.com/wandor/downloads/wandor.exe
 Size=2852112
 MD5=3df6e52af97f21eb89ae0760b496963e
 ServerFileName=wandor.exe
