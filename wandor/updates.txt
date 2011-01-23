@@ -1,10 +1,21 @@
 ;aiu;
 
+[Wandor1.2]
+Name=WANDOR
+URL=http://www.example.com/downloads/wandor.exe
+Size=2852112
+MD5=3df6e52af97f21eb89ae0760b496963e
+ServerFileName=wandor.exe
+FilePath=[APPDIR]Wandor.exe
+Version=1.2.0.0
+Description=Hibajavító frissítés
+BugFix=A frissítések keresése link megnyomását akadályozó hiba javítva.
+
 [Wandor1.1]
 Name=WANDOR
 URL=http://twl.github.com/wandor/downloads/wandor.exe
-Size=2852075
-MD5=6b3e78a8a9cd707359446f6ef534cb92
+Size=2852112
+MD5=3df6e52af97f21eb89ae0760b496963e
 ServerFileName=wandor.exe
 Flags=Critical
 FilePath=[APPDIR]Wandor.exe
