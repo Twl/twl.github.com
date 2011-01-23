@@ -1,0 +1,13 @@
+;aiu;
+
+[Wandor1.1]
+Name=WANDOR
+URL=http://twl.github.com/wandor/downloads/wandor.exe
+Size=2852075
+MD5=6b3e78a8a9cd707359446f6ef534cb92
+ServerFileName=wandor.exe
+Flags=Critical
+FilePath=[APPDIR]YourApplication.exe
+Version=1.1.0.0
+Description=Adds a link to the main window of the application which with the user can instantly search for updates.
+Feature=Update feature
